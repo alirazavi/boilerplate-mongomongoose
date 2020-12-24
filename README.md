@@ -1,2 +1,1 @@
-# boilerplate-mongomongoose
-Introduction to the MongoDB and Mongoose Challenges
+# [MongoDB and Mongoose Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/)
